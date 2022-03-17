@@ -1,0 +1,19 @@
+<svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Location">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.23901 10.3912C4.25342 6.15065 7.70278 2.72465 11.9434 2.73906C16.1839 2.75347 19.6099 6.20282 19.5955 10.4434V10.5304C19.5434 13.2869 18.0042 15.8347 16.1173 17.826C15.0381 18.9466 13.833 19.9387 12.526 20.7825C12.1765 21.0848 11.6581 21.0848 11.3086 20.7825C9.36008 19.5143 7.64995 17.9131 6.2564 16.0521C5.01436 14.4293 4.30918 12.4597 4.23901 10.4173L4.23901 10.3912Z" stroke="#FF5722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle opacity="0.4" cx="11.9172" cy="10.539" r="2.46087" stroke="#FF5722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></circle>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Message">
+    <path opacity="0.4" d="M17.2678 8.56104L13.0024 11.9953C12.1952 12.6282 11.0636 12.6282 10.2564 11.9953L5.95435 8.56104" stroke="#FF5722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M6.88787 3H16.3158C17.6752 3.01525 18.969 3.58993 19.896 4.5902C20.823 5.59048 21.3022 6.92903 21.222 8.29412V14.822C21.3022 16.1871 20.823 17.5256 19.896 18.5259C18.969 19.5262 17.6752 20.1009 16.3158 20.1161H6.88787C3.96796 20.1161 2 17.7407 2 14.822V8.29412C2 5.37545 3.96796 3 6.88787 3Z" stroke="#FF5722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="Calling">
+    <g id="Iconly/Two-tone/Calling">
+      <g id="Calling">
+        <path id="Stroke 1" opacity="0.4" d="M14.353 2.5C18.054 2.911 20.978 5.831 21.393 9.532" stroke="#FF5722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path id="Stroke 3" opacity="0.4" d="M14.353 6.04297C16.124 6.38697 17.508 7.77197 17.853 9.54297" stroke="#FF5722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path id="Stroke 5" fill-rule="evenodd" clip-rule="evenodd" d="M11.0315 12.4724C15.0205 16.4604 15.9254 11.8467 18.4653 14.3848C20.9138 16.8328 22.3222 17.3232 19.2188 20.4247C18.8302 20.737 16.3613 24.4943 7.68447 15.8197C-0.993406 7.144 2.76157 4.67244 3.07394 4.28395C6.18377 1.17385 6.66682 2.58938 9.11539 5.03733C11.6541 7.5765 7.04254 8.48441 11.0315 12.4724Z" stroke="#FF5722" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+      </g>
+    </g>
+  </symbol>
+</svg>
