@@ -68,6 +68,10 @@ a {
   font-weight: 300;
   text-decoration: none;
 }
+/* p */
+p {
+  font-weight: 300;
+}
 /* input */
 input {
   font-family: var(--font-family-primary);
