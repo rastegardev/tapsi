@@ -6,7 +6,7 @@
   font-style: normal;
   font-weight: normal;
   text-rendering: optimizeLegibility;
-  src: url("/assets/fonts/Vazir.woff") format("woff");
+  src: url("./fonts/Vazir.woff") format("woff");
 }
 @font-face {
   font-family: "vazir";
@@ -14,7 +14,7 @@
   font-style: normal;
   font-weight: normal;
   text-rendering: optimizeLegibility;
-  src: url("/assets/fonts/Vazir-Bold.woff") format("woff");
+  src: url("./fonts/Vazir-Bold.woff") format("woff");
 }
 /* - - - - - - - - End Webfont Yekan - - - - - - - - */
 
