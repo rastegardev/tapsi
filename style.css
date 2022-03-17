@@ -60,10 +60,12 @@ button {
 }
 /* list */
 ul {
+  font-weight: 300;
   list-style: none;
 }
 /* a */
 a {
+  font-weight: 300;
   text-decoration: none;
 }
 /* input */
@@ -188,6 +190,7 @@ h3 {
 /* - - - - - - - - Start Header component - - - - - - - - */
 .main-header {
   z-index: 100;
+  font-weight: 300;
   background-color: var(--color-navbar);
   border-bottom: 1px solid #cccccc;
   position: fixed;
@@ -280,6 +283,7 @@ h3 {
   }
   .nav__item {
     border: none;
+    font-weight: 300;
     margin-left: 2rem;
     margin-bottom: 0;
     padding-bottom: 0rem;
@@ -443,6 +447,7 @@ h3 {
 .services__tabs .tab > p {
   font-size: 1.2rem;
   margin-top: 1.5rem;
+  font-weight: 300;
 }
 .services__tabs img {
   max-width: 85px;
@@ -494,6 +499,7 @@ h3 {
 .list {
   font-size: 1.8rem;
   list-style: none;
+  font-weight: 300;
 }
 .list--inline .list__item {
   margin-left: 2rem;
@@ -611,6 +617,7 @@ h3 {
 }
 .services__text {
   margin-bottom: 1.5rem;
+  font-weight: 300;
 }
 .services__text-link {
   cursor: pointer;
@@ -655,6 +662,7 @@ h3 {
 }
 .advantage--text__post {
   margin-bottom: 2rem;
+  font-weight: 300;
 }
 
 .advantage--text__button {
@@ -704,6 +712,7 @@ h3 {
 .parallax__title {
   color: #ffffff;
   display: flex;
+  font-weight: 300;
   text-align: center;
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -752,6 +761,7 @@ h3 {
 }
 .blog--post__description {
   text-align: justify;
+  font-weight: 300;
 }
 /* - - - - - - - - End Blog component - - - - - - - - */
 
